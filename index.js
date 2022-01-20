@@ -7,5 +7,5 @@ module.exports = (app) => {
         const params = context.issue({ body: "Hello World" });
         // post a comment
         return context.octokit.issues.createComment(params);
-    });``
+    });
 };
