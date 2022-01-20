@@ -1,0 +1,23 @@
+{
+  "name": "coursera-ci",
+  "version": "1.0.0",
+  "description": "Probot using CircleCI",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wijamw/coursera-CI.git"
+  },
+  "keywords": [
+    "probot",
+    "circleci"
+  ],
+  "author": "Agares",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wijamw/coursera-CI/issues"
+  },
+  "homepage": "https://github.com/wijamw/coursera-CI#readme"
+}
